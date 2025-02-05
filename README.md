@@ -1,5 +1,10 @@
-# ONGB Research Files
-Public Schools around Oakland have had trouble with students and their attendance rates. Through the Oakland Natives Give Back institute, I helped track and predict students who were at the risk of becoming absent based on their past data, so that schools can attack these students and give them help before it's too late.
+# Early-Warning-System-Prediction-ONGB
+Description: For Oakland Natives Give Back, created and optimized models to find students at risk of being chronically absent to support them throughout Oakland Public Schools
+
+Goals: In the Fall of 2024, the Data Science Research team was assigned the task of examining databases of student data regarding features that might have contributed to their absenteeism. The goal of the research was to understand what types of students were likely to be at risk of chronic absenteeism so that schools could prevent them from ditching classes as often.
+
+[Our Findings](https://github.com/user-attachments/files/18679991/absenteeism.pdf)
+
 
 ## Features
 These files take an in-depth analysis into the the excel files given, analysis on the types of features that are most likely to cause absenteeism and a prediction model using Random-Forest and XGBoost to help solve these issues.
